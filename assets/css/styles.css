@@ -104,10 +104,10 @@ a { color: #63c0f5; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 
 .cf { zoom: 1; }
 
-P { text-align: center; }
+P { text-align: center; padding-left: 50px; padding-right: 50px; }
 
-H1 { text-align: center; }
+H1 { text-align: center; padding-left: 50px; padding-right: 50px; }
 
-H2 { text-align: center; }
+H2 { text-align: center; padding-left: 50px; padding-right: 50px; }
 
-a { text-align: center; }
+a { text-align: center; padding-left: 25px; }
