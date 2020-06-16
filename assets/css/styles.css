@@ -112,7 +112,9 @@ H2 { text-align: center; padding-left: 50px; padding-right: 50px; }
 
 a { text-align: center; padding-left: 25px; color: white; }
 
-a:link, a:visited { background-color: #b5e853; color: white; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; }
+ol { text-align: center; padding-left: 30px; padding-right: 30px; padding-bottom: 100px; }
+
+a:link, a:visited { background-color: #b5e853; color: black; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; }
 
 a:active { background-color: white; color: #b5e853; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; }
 
