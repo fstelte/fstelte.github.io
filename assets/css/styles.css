@@ -104,7 +104,7 @@ a { color: #63c0f5; text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); }
 
 .cf { zoom: 1; }
 
-P { text-align: center; padding-left: 50px; padding-right: 50px; padding-bottom: 30px; }
+P { text-align: center; padding-left: 50px; padding-right: 50px; padding-bottom: 30px; max-width: 750px; margin: 0 auto; }
 
 H1 { text-align: center; padding-left: 50px; padding-right: 50px; }
 
