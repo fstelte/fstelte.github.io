@@ -1,1 +1,8 @@
+title: Cybercondoom
+description: Een website die je helpt jezelf en andere te beschermen in de digitale wereld
+url: https://www.cybercondoom.nl
+author: Ferry
 theme: jekyll-theme-hacker
+plugins:
+  - emoji_for_jekyll
+  - jekyll-feed
