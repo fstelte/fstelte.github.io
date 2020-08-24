@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybercondoom</title>
-    <link>https://examplesite.com/</link>
+    <link>https://www.cybercondoom.nl/</link>
     <description>Recent content on Cybercondoom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2020.</copyright>
     <lastBuildDate>Mon, 24 Aug 2020 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.cybercondoom.nl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>24-08-2020: Hier om te beschermen</title>
-      <link>https://examplesite.com/blogs/2020-08-24-cybercondoom-hier-om-te-beschermen/</link>
+      <link>https://www.cybercondoom.nl/blogs/2020-08-24-cybercondoom-hier-om-te-beschermen/</link>
       <pubDate>Mon, 24 Aug 2020 11:02:05 +0600</pubDate>
       
-      <guid>https://examplesite.com/blogs/2020-08-24-cybercondoom-hier-om-te-beschermen/</guid>
+      <guid>https://www.cybercondoom.nl/blogs/2020-08-24-cybercondoom-hier-om-te-beschermen/</guid>
       <description>Hier om te beschermen Deze website, ben ik begonnen als vrijetijdsbesteding. Ik hoop mijn kennis en ervaringen hier te kunnen delen. Naast content die door anderen gemaakt is. Natuurlijk helpt alleen deze website bezoeken je niet te beschermen, door deze site te lezen en te begrijpen hoop ik wel dat je bewuster wordt van je eigen gedragen en mogelijkheden. Zodat jij de maatregelen kan nemen die in jou situatie het beste passen.</description>
     </item>
     
     <item>
       <title>Wijzigingen aan de website</title>
-      <link>https://examplesite.com/changelog/</link>
+      <link>https://www.cybercondoom.nl/changelog/</link>
       <pubDate>Mon, 24 Aug 2020 10:42:26 +0600</pubDate>
       
-      <guid>https://examplesite.com/changelog/</guid>
+      <guid>https://www.cybercondoom.nl/changelog/</guid>
       <description>Veranderingen op de website 02-07-2020  Toevoegen van tip #4 op tips Kleine aanpassingen in de opmaak  18-06-2020  Change log toegevoegd:) Blog sectie toegevoegd Tip #3 toegevoegd op tips Link volgorde in navigatie bar aangepast  </description>
     </item>
     
